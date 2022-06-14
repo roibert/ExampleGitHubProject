@@ -1,2 +1,2 @@
-# ExampleGitHubProject
-Example project to describe GitHub
+# Example GitHub Project
+Example project to describe how GitHub works
